@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashaskhot
+- 👋 Hi, I’m Yashas Khot
 - 👀 I’m interested in JAVA,Python & C.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on ...
