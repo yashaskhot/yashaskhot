@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashas Khot
 - 👀 I’m interested in JAVA,Python,SQL & C.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me ykuk9876@gmail.com
 
 <!---
