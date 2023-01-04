@@ -2,7 +2,8 @@
 - 👀 I’m interested in JAVA,Python,SQL,C & Django.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web Dev Projects
-- 📫 How to reach me ykuk9876@gmail.com
+- 📫 How to reach me khotyashas2@gmail.com
+- Personal Website : https://yashaskhot.github.io/PersonalPortfolio-V2/
 
 <!---
 yashaskhot/yashaskhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
