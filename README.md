@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashas Khot
-- 👀 I’m interested in JAVA,Python,SQL,C & Django.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 👀 I’m interested in Python,SQL,Node.js,React.js & Django.
+- 🌱 I’m currently learning Python and Data Science.
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me khotyashas2@gmail.com
 - Personal Website : https://yashaskhot.github.io/PersonalPortfolio-V2/
 
