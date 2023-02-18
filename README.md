@@ -1,3 +1,10 @@
+
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+
+
+
 - 👋 Hi, I’m Yashas Khot
 - 👀 I’m interested in Python,SQL,Node.js,React.js & Django.
 - 🌱 I’m currently learning Python and Data Science.
