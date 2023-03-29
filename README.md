@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=yashaskhot)
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashaskhot&theme=dracula" alt="yashas khot's activity graph"/>  
+
+
 💬 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yashas1256)
 [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yashas-khot-7ba74122b/)
