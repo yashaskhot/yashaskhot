@@ -6,7 +6,7 @@
 
 
 - 👋 Hi, I’m Yashas Khot
-- 👀 I’m interested in Python,SQL,Node.js,React.js & Django.
+- 👀 I’m interested in MERN,Python and SQL.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me khotyashas2@gmail.com
@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=yashaskhot)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashaskhot&theme=dracula" alt="yashas khot's activity graph"/>  
 
 
 💬 Social:
