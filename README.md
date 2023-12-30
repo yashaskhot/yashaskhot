@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me khotyashas2@gmail.com
-- 👾Portfolio Website : https://yashaskhot.netlify.app/
+- 👾Portfolio Website : https://yashaskhot.tech/
 
 <!---
 yashaskhot/yashaskhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
