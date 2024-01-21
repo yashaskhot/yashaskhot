@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=yashaskhot)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashaskhot&theme=react)](https://github.com/yashaskhot/github-readme-activity-graph)
+[![Yashas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashaskhot&theme=react)](https://github.com/yashaskhot/github-readme-activity-graph)
 
 💬 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yashas1256)
 [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yashaskhot/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/khot_yashas)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/khot_yashas)
 
