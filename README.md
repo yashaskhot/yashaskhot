@@ -5,11 +5,11 @@
 
 
 
-- 👋 Hi, I’m Yashas Khot
+- 👋 Hi, I’m Yashas Khot.
 - 👀 I’m interested in MERN,Python and SQL.
-- 🌱 I’m currently learning Python and Data Science.
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me khotyashas2@gmail.com
+- 🌱 I’m currently learning GoLang.
+- 💞️ I’m looking to collaborate on Python Projrcts.
+- 📫 How to reach me khotyashas2@gmail.com.
 - 👾Portfolio Website : https://yashaskhot.tech/
 
 <!---
