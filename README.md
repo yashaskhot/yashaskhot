@@ -6,9 +6,9 @@
 
 
 - 👋 Hi, I’m Yashas Khot.
-- 👀 I’m interested in MERN,Python and SQL.
+- 👀 I’m interested in GoLang, Python and SQL.
 - 🌱 I’m currently learning GoLang.
-- 💞️ I’m looking to collaborate on Python Projrcts.
+- 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me khotyashas2@gmail.com.
 - 👾Portfolio Website : https://yashaskhot.tech/
 
