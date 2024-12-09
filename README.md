@@ -1,6 +1,6 @@
 
 
-![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhuejF3ZTAzZnF2Zm9wbnc1N2diOTI5bW96OHVxMDNpbzd0NTl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)
 
 
 # Hi, I’m Yashas Khot👋
