@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning GoLang.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me khotyashas2@gmail.com.
-- 👾Portfolio Website : https://yashaskhot.tech/
+- 👾Portfolio Website : https://yashaskhot.me/
 
 <!---
 yashaskhot/yashaskhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
